@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @blue-oasis
-- 👀 I’m interested in web, backend, sever, TTS
+- 🎼 I majored in music in college.
+- 🎓 AND I have a master's degree in Speech language pathology.
+- 🎒 But I am studying computer science again! 
+- 👀 I’m interested in programming language, web, backend, sever, TTS
 - 🌱 I’m currently learning JAVA, Python, HTML, CSS, javascript. 
 
 <!---
